@@ -124,6 +124,7 @@ echo "</div>";
 <hr>
 
 <div class="dk-searchbox">
+ <h2>Recent Articles by Category</h2>
 <p>Seacrch Post Shortcode: <b class="searchboxshortcode">[blogpostsearch limit='5']</b></p>
 <span>Limit is nothing but first 5 results</span>
 
