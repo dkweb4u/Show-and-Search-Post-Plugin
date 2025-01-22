@@ -9,8 +9,9 @@ Plugin Name: Dk Custom Post
 
 Two section:
 
-1. Show category with 5 post
+1. Show category with 5 post (Blog Post wite categories)
 
-2. Search post with search bar 
+2. Search post with search bar (Blog post in using wordpress Search api)
 
-> Bore are generate with shortcode
+> Depends on setting auto generated in shortcode.
+
