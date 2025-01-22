@@ -39,9 +39,6 @@ class dkCustomTheme{
 
     function loadwordHTML(){
 
-
-        $settings = json_decode(file_get_contents(plugin_dir_path(__FILE__)."settings.json"),true);
-
         ?>
 
         <style>
